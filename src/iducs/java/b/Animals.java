@@ -1,8 +1,11 @@
 package iducs.java.b;
 
 public interface Animals {
-	void move();
-	void eat();
-	void sound();
+	
+	public final String species = "µ¿¹É"; // public final 
+	
+	void move(); // public abstract 
+	void eat(); // 
+	void sound(); 
 	void breathe();
 }

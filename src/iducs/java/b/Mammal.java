@@ -9,7 +9,7 @@ public abstract class Mammal implements Animals {
 
 	}
 
-	abstract public void sound();
+	public abstract void sound();
 	
 	@Override
 	public void breathe() {
