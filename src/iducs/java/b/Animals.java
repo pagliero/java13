@@ -8,4 +8,5 @@ public interface Animals {
 	void eat(); // 
 	void sound(); 
 	void breathe();
+	
 }
